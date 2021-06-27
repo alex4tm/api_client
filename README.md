@@ -79,7 +79,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[⬆ &nbsp; Back To The Top &nbsp; ⬆ ](#apiclient)
+[⬆ &nbsp; Back To The Top &nbsp; ⬆ ](#api-client)
 
 ---
 
@@ -88,4 +88,4 @@ SOFTWARE.
 - [LinkedIn](https://www.linkedin.com/in/iliesi-alexandru/)
 - [Portfolio Website](https://iliesialexandru.com)
 
-[⬆ &nbsp; Back To The Top &nbsp; ⬆ ](#apiclient)
+[⬆ &nbsp; Back To The Top &nbsp; ⬆ ](#api-client)
