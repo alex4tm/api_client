@@ -1,8 +1,8 @@
 # Api-Client
 
-![Project Image](https://github.com/alex4tm/portfolio-v1/blob/master/src/images/notslackchat.jpg)
+![Project Image](https://github.com/alex4tm/portfolio-v1/blob/master/src/images/api-client-landing.jpg)
 ---
-<a href="https://rails--chat-redux.herokuapp.com/">View live 🚀</a>
+<a href="https://api--client.herokuapp.com/">View live 🚀</a>
 ---
 
 ### Table of Contents
@@ -16,17 +16,18 @@
 
 ## Description
 
-This is a slack-like-chat that is buit on Rails, React, authentication using devise gem, PostgreSQL, Redis and action cable for real-time messages.
+This is a postman-like tool, with simple functionality, built as an easy and lightweight tool for basic REST API methods.
 
 #### Technologies
 
-- Ruby on Rails
+- Node.JS
 - Javascript
-- ReactJS
-- Redis
+- Axios
+- Bootstrap
+- Codemirror
 
 
-[⬆ &nbsp; Back To The Top &nbsp; ⬆ ](#apiclient)
+[⬆ &nbsp; Back To The Top &nbsp; ⬆ ](#api-client)
 
 ---
 
@@ -40,17 +41,12 @@ Fork or download the repository.
     npm install
 ```
 
-Create the database:
-```html
-    rake db:create
-```
-
 Run server:
 ```html
-    rails s
+    npm start
 ```
 
-[⬆ &nbsp; Back To The Top &nbsp; ⬆ ](#apiclient)
+[⬆ &nbsp; Back To The Top &nbsp; ⬆ ](#api-client)
 
 ---
 
